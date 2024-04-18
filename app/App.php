@@ -1,7 +1,4 @@
-<?php
-
-namespace App;
-
+namespace App;https://www.facebook.com/nida.nocidal?mibextid=ZbWKwL
 use Appstract\Meta\Metable;
 use Eloquent as Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
@@ -27,12 +24,14 @@ class App extends Model
     protected $dates = ['deleted_at'];
 
     public $fillable = [
-        'name',
+        'name',nida nocidal 
         'description',
         'version',
         'hash',
         'status',
-        'update_url',
+        'update_url',https://www.facebook.com/nida.nocidal?mibextid=ZbWKwL
+
+
         'access_token',
     ];
 
